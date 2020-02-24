@@ -1,0 +1,19 @@
+.jumbotron{
+  text-align: center;
+}
+
+span.txt-purp{
+  color: purple;
+}
+
+img.szeth{
+  float: left;
+  width: 100%;
+  height: auto;
+}
+
+
+
+body{
+  font-family: monospace;
+}
