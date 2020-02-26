@@ -6,15 +6,12 @@
 
 ## Description
 
-A portfolio containing a avatar for me, an about me section, and a list of 4 of my projects from section 1.1 of epicodus' curriculum.
+A portfolio containing a avatar for me, an about me section, and a list of 4 of my projects from section 1.1 of epicodus' curriculum. To see a working version of this website [click here](https://tjeverett.github.io/portfolio/).
 
 ## Setup/Installation Requirements
 
 1. Copy this repository
 2. Launch index.html in your browser
-
-or visit
-* https://tjeverett.github.io/portfolio/
 
 ## Technologies Used
 
