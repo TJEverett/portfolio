@@ -1,6 +1,6 @@
 # 1.1 Independent Project
 
-#### Proof of concepts from 1.1, 02/21/2020
+#### Proof of concepts from 1.1, 02/26/2020
 
 #### By Tristen Everett
 
@@ -12,6 +12,9 @@ A portfolio containing a avatar for me, an about me section, and a list of 4 of 
 
 1. Copy this repository
 2. Launch index.html in your browser
+
+or visit
+* https://tjeverett.github.io/portfolio/
 
 ## Technologies Used
 
