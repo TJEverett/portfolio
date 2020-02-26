@@ -8,6 +8,7 @@ span.txt-purp{
 
 img.szeth{
   float: left;
+  padding: 2%;
   width: 100%;
   height: auto;
 }
@@ -16,4 +17,5 @@ img.szeth{
 
 body{
   font-family: monospace;
+  margin-bottom: 3%;
 }
